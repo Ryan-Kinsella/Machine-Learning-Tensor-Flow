@@ -6,6 +6,8 @@ https://colab.research.google.com/notebooks/mlcc/intro_to_pandas.ipynb?utm_sourc
 https://colab.research.google.com/notebooks/mlcc/first_steps_with_tensor_flow.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=firststeps-colab&hl=en#scrollTo=rVFf5asKE2Zt
 3. Synthetic features and outliers
 https://colab.research.google.com/notebooks/mlcc/synthetic_features_and_outliers.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=syntheticfeatures-colab&hl=en
+4. Validation
+https://colab.research.google.com/notebooks/mlcc/validation.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=validation-colab&hl=en#scrollTo=J2ZyTzX0HpCc
 """
 
 # Setup
